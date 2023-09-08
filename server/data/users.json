@@ -1,0 +1,20 @@
+[
+  {
+    "email": "victor123@email.com",
+    "username": "victor",
+    "password": "asdasd123",
+    "isAdmin": true
+  },
+  {
+    "email": "christopher123@email.com",
+    "username": "christopher",
+    "password": "asdasd123",
+    "isAdmin": false
+  },
+  {
+    "email": "malik123@email.com",
+    "username": "malik",
+    "password": "asdasd123",
+    "isAdmin": false
+  }
+]
